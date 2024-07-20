@@ -65,8 +65,8 @@ console.log(productNum(10)); //output is "100" // since num2 defaults to 10
 
 const productOfNameAge = (personName = "", age = 18) =>
   `Hello ${personName} and age is ${age}`;
-console.log(productOfNameAge("Virender")); //output is "Hello Virender and age is 18"
-console.log(productOfNameAge("Virender", 25)); //output is "Hello Virender and age is 25"
+console.log(productOfNameAge("Ankush")); //output is "Hello Ankush and age is 18"
+console.log(productOfNameAge("Ankush", 25)); //output is "Hello Ankush and age is 25"
 
 //Activity 5: Higher-Order Functions
 
