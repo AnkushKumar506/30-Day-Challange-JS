@@ -83,7 +83,7 @@ console.log(a > b || b < c); //output is "true"
 
 //task 13: Write a program that uses the ! operator to combine two conditions and log the result to the console.
 
-console.log(a > b && !(b > c)); //output is "flase"
+console.log(a > b && !(b > c)); //output is "false"
 console.log(a > b || !(b > c)); //output is "true"
 
 //Activity 3: Ternary Operators
