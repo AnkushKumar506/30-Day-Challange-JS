@@ -7,8 +7,8 @@ console.log("The output is:", myNum); // output is ""The output is: 5""
 
 //task 2 : Declare a variable usinga let, assign it a string, and log the value to the console.
 
-let myName = "Virender";
-console.log("My name is:", myName); //output is "My name is: Virender"
+let myName = "Ankush";
+console.log("My name is:", myName); //output is "My name is: Ankush"
 
 //Activity 2: Constant Declaration
 
